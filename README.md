@@ -1,13 +1,8 @@
 # MSOffice
 MS Office Presentation
 
+
 Content
-- Citation
-  - Instructions
-    - References > Insert Citation
-  - Description
-    - Built-in
-    - Can set citation style (MLA, APA, etc.)
 - OneDrive
   - Instructions
     - Download OneDrive
@@ -17,3 +12,9 @@ Content
     - Update the OneDrive Folder
   - Description
     - Awesome Sync
+- Citation
+  - Instructions
+    - References > Insert Citation
+  - Description
+    - Built-in
+    - Can set citation style (MLA, APA, etc.)
