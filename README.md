@@ -2,10 +2,18 @@
 MS Office Presentation
 
 Content
-
-1. Citation
-   1. Instructions
-   2. Description
-2. OneDrive
-   1. Instructions
-   2. Description
+- Citation
+  - Instructions
+    - References > Insert Citation
+  - Description
+    - Built-in
+    - Can set citation style (MLA, APA, etc.)
+- OneDrive
+  - Instructions
+    - Download OneDrive
+    - Open OneDrive
+    - Sync with OneDrive
+    - Locate the Sync Folder
+    - Update the Onedrive Folder
+  - Description
+    - Awesome syncer
