@@ -14,6 +14,6 @@ Content
     - Open OneDrive
     - Sync with OneDrive
     - Locate the Sync Folder
-    - Update the Onedrive Folder
+    - Update the OneDrive Folder
   - Description
-    - Awesome syncer
+    - Awesome Sync
