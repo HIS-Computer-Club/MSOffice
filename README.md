@@ -17,6 +17,7 @@ Content
   - Instructions
     - Go to Microsoft Online
     - Open Word Online, Excel Online, PowerPoint Online, Flow, etc.
+    - Shows Powerapps, How does the Flow works, Yammer service, etc.
   - Collaborate
     - Share
 - Word
@@ -51,7 +52,7 @@ Content
   - Seek a goal
     - Data > Goal Seek
 - PowerPoint
-  - Transitions and animations
-  - Notes
+  - Transitions and animations (NO)
+  - Notes (NO)
   - Slide Master
     - View > Slide Master
