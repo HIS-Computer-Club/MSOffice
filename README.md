@@ -1,9 +1,11 @@
 # MSOffice
+
 MS Office Presentation
 
 
 
 Content
+
 - OneDrive
   - Instructions
     - Download OneDrive
@@ -53,7 +55,7 @@ Content
   - Seek a goal
     - Data > Goal Seek
 - PowerPoint
-  - Transitions and animations (NO)
-  - Notes (NO)
+  - ~~Transitions and animations~~
+  - ~~Notes~~
   - Slide Master
     - View > Slide Master
