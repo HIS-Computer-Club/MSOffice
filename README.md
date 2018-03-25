@@ -8,7 +8,7 @@ Content
 
 - OneDrive
   - Instructions
-    - Download OneDrive
+    - ~~Download OneDrive~~
     - Open OneDrive
     - Sync with OneDrive
     - Locate the sync Folder
