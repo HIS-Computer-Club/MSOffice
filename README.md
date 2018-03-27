@@ -9,12 +9,12 @@ Content
 - OneDrive
   - Instructions
     - ~~Download OneDrive~~
-    - Open OneDrive
-    - Sync with OneDrive
-    - Locate the sync Folder
-    - Update the OneDrive Folder
+    - Open OneDrive (Done)
+    - Sync with OneDrive (Done)
+    - Locate the sync Folder (Done)
+    - Update the OneDrive Folder (Done)
   - Description
-    - Awesome sync
+    - Awesome sync (Done)
     - Share documents
 - Office Online
   - Instructions
