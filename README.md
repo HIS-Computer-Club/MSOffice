@@ -20,7 +20,7 @@ Content
   - Instructions
     - Go to Microsoft Online
     - Open Word Online, Excel Online, PowerPoint Online, Flow, etc.
-    - Shows Powerapps, How does the Flow works, Yammer service, etc.
+    - Shows Powerapps, How does the Flow works, Yammer service, etc. (Done)
   - Collaborate
     - Share
 - Word
