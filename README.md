@@ -1,61 +1,51 @@
-# MSOffice
+# Office 365 Project
 
-MS Office Presentation
+NickTheTurtle and shis63032's project.
 
 
 
-Content
+This project was planned to distribute to the school public to train the students to use the given technology to the maximum efficiency of individuals.
 
-- OneDrive
-  - Instructions
-    - ~~Download OneDrive~~
-    - Open OneDrive (Done)
-    - Sync with OneDrive (Done)
-    - Locate the sync Folder (Done)
-    - Update the OneDrive Folder (Done)
-  - Description
-    - Awesome sync (Done)
-    - Share documents
-- Office Online
-  - Instructions
-    - Go to Microsoft Online
-    - Open Word Online, Excel Online, PowerPoint Online, Flow, etc.
-    - Shows Powerapps, How does the Flow works, Yammer service, etc. (Done)
-  - Collaborate
-    - Share
-- Word
-  - Format painter
-    - Home > Format Painter
-  - Built-in Styling
-    - Home > Headings 1, Headings 2, etc.
-  - Table of Contents
-    - Set built-in styling
-    - References > Table of Contents
-  - Citations
-    - References > Insert Citation
-    - References > Bibliography
-  - Review documents
-    - Review > New Comment, Delete
-    - Review > Track Changes, Accept, Reject
-  - Protect documents
-    - Review > Protect Document
-  - Tables and charts
-    - Insert > Tables, Charts
-  - Headers and footers
-    - Insert > Header, Footer
-- Excel
-  - Equations
-    - Formulas > Insert Function
-  - Conditional formatting
-    - Home > Conditional Formatting
-  - Tables and charts
-    - Insert > Table, Charts
-  - Data validation
-    - Data > Data Validation
-  - Seek a goal
-    - Data > Goal Seek
-- PowerPoint
-  - ~~Transitions and animations~~
-  - ~~Notes~~
-  - Slide Master
-    - View > Slide Master
+
+
+**Core** sections are the main program for this project.
+
+**Additional Higher Level** sections are the requested program based on this project.
+
+
+
+###Core
+
+- Office OneDrive.mp4
+  - This video will demonstrate the basic installation of the OneDrive.
+- Office Outlook.mp4
+  - This video will demonstrate the basic installation of the Outlook.
+- Office Yammer.mp4
+  - Unavailable
+- Office Flow.mp4
+  - Unavailable
+- Office PowerApps.mp4
+  - Unavailable
+- Office Teams.mp4
+  - Unavailable
+- Office Skype for Business.mp4
+  - Unavailable
+- Office Sharepoint.mp4
+  - Unavailable
+- Office Word.mp4
+  - Unavailable. The initial plan was to demonstrate the necessary functions that is required for an International Baccalaureate Diploma Programme.
+- Office PowerPoint.mp4
+  - Unavailable. The initial plan was to demonstrate the necessary functions that is required for any students in any level.
+- Office Excel.mp4
+  - Unavailable. The initial plan was to demonstrate the necessary functions that is required for an International Baccalaureate Diploma Programme.
+
+
+
+###Additional Higher Level
+
+- Managebac iCalendar.mp4
+  - Preparing... *Please stand by.*
+- Wunderlist iCalendar.mp4
+  - Preparing... *Please stand by.*
+- Microsoft Calendar.mp4
+  - Preparing... *Please stand by.*
