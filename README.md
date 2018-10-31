@@ -1,6 +1,6 @@
 # Office 365 Project
 
-NickTheTurtle and shis63032's project.
+xudo61289 and shis63032's project.
 
 
 
@@ -14,7 +14,7 @@ This project was planned to distribute to the school public to train the student
 
 
 
-###Core
+### Core
 
 - Office OneDrive.mp4
   - This video will demonstrate the basic installation of the OneDrive.
@@ -41,7 +41,7 @@ This project was planned to distribute to the school public to train the student
 
 
 
-###Additional Higher Level
+### Additional Higher Level
 
 - Managebac iCalendar.mp4
   - Preparing... *Please stand by.*
