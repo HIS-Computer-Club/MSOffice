@@ -44,7 +44,7 @@ This project was planned to distribute to the school public to train the student
 ### Additional Higher Level
 
 - Managebac iCalendar.mp4
-  - Preparing... *Please stand by.*
+  - This video demonstrates how to sync Managebac calendar to Mac iCalendar.
 - Wunderlist iCalendar.mp4
   - Preparing... *Please stand by.*
 - Microsoft Calendar.mp4
