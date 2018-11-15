@@ -21,15 +21,15 @@ This project was planned to distribute to the school public to train the student
 - Office Outlook.mp4
   - This video will demonstrate the basic installation of the Outlook.
 - Office Yammer.mp4
-  - Unavailable
+  - Preparing... Please stand by.
 - Office Flow.mp4
   - Unavailable
 - Office PowerApps.mp4
   - Unavailable
 - Office Teams.mp4
-  - Unavailable
+  - Preparing... Please stand by.
 - Office Skype for Business.mp4
-  - Unavailable
+  - Preparing... Please stand by.
 - Office Sharepoint.mp4
   - Unavailable
 - Office Word.mp4
