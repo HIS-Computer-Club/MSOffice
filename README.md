@@ -27,9 +27,9 @@ This project was planned to distribute to the school public to train the student
 - Office PowerApps.mp4
   - Unavailable
 - Office Teams.mp4
-  - Preparing... Please stand by.
+  - This video will demonstrate the overall features of the Teams.
 - Office Skype for Business.mp4
-  - Preparing... Please stand by.
+  - This video will demonstrate how to install the Skype for Business.
 - Office Sharepoint.mp4
   - Unavailable
 - Office Word.mp4
