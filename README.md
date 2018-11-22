@@ -48,4 +48,4 @@ This project was planned to distribute to the school public to train the student
 - Wunderlist iCalendar.mp4
   - Preparing... *Please stand by.*
 - Microsoft Calendar.mp4
-  - Preparing... *Please stand by.*
+  - This video demonstrates how to use the Outlook additional features that is provided.
