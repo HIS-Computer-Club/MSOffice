@@ -17,19 +17,19 @@ This project was planned to distribute to the school public to train the student
 ### Core
 
 - Office OneDrive.mp4
-  - This video will demonstrate the basic installation of the OneDrive.
+  - This video will demonstrate the basic installation of Microsoft OneDrive.
 - Office Outlook.mp4
-  - This video will demonstrate the basic installation of the Outlook.
+  - This video will demonstrate the basic installation of Microsoft Outlook.
 - Office Yammer.mp4
-  - Preparing... Please stand by.
+  - This video will demonstrate the basic usage of Microsoft Yammer.
 - Office Flow.mp4
   - Unavailable
 - Office PowerApps.mp4
   - Unavailable
 - Office Teams.mp4
-  - This video will demonstrate the overall features of the Teams.
+  - This video will demonstrate the overall features of Microsoft Teams.
 - Office Skype for Business.mp4
-  - This video will demonstrate how to install the Skype for Business.
+  - This video will demonstrate how to install Microsoft Skype for Business.
 - Office Sharepoint.mp4
   - Unavailable
 - Office Word.mp4
@@ -48,4 +48,4 @@ This project was planned to distribute to the school public to train the student
 - Wunderlist iCalendar.mp4
   - Preparing... *Please stand by.*
 - Microsoft Calendar.mp4
-  - This video demonstrates how to use the Outlook additional features that is provided.
+  - This video demonstrates how to use Microsoft Outlook with additional features that are provided.
